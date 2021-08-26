@@ -1,2 +1,2 @@
 # COVID19-Analysis-Project
- COVID 19 anapysis using matplotlib.
+COVID 19 analysis using matplotlib.
